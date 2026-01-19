@@ -1,4 +1,4 @@
-## Hi there 👋
+## 👋
 
 # 🚀 Backend / Full-Stack Engineer – GitHub Portfolio
 
