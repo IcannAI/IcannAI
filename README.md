@@ -35,11 +35,8 @@ I enjoy building reliable systems, clean APIs, and scalable services while maint
 
 ## 📊 GitHub Stats
 
-> These give recruiters a quick signal of consistency and technical breadth.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&hide_title=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact)
 
 ---
 
