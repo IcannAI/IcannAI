@@ -173,6 +173,5 @@ I enjoy building reliable systems, clean APIs, and scalable services while maint
 
 If you are a recruiter or engineer interested in discussing backend or full-stack opportunities, feel free to connect:
 
-* GitHub: 
-[(https://github.com/IcannAI]
+* GitHub: https://github.com/IcannAI
 
