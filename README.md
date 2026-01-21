@@ -5,7 +5,6 @@
 > A recruiter-focused portfolio showcasing production-style projects, strong fundamentals, and consistent engineering practices.
 > Target roles: **Backend Engineer / Full-Stack Engineer (FAANG / Big Tech level)**
 
-> **Important:** Replace `YOUR_USERNAME` with your GitHub username in all links and cards.
 
 ---
 
@@ -175,6 +174,5 @@ I enjoy building reliable systems, clean APIs, and scalable services while maint
 If you are a recruiter or engineer interested in discussing backend or full-stack opportunities, feel free to connect:
 
 * GitHub: 
-* LinkedIn: 
-
+[(https://github.com/IcannAI]
 
