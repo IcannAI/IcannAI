@@ -1,12 +1,10 @@
 # Hi there 👋
 
-About
+**About**
 
-Independent SWE — Fullstack & Backend
-
-Building AI-native tools to modernise enterprise SaaS (ERP / SCM / HCM)
-
-Exploring: LLM agents for legacy workflow automation
+> Independent SWE — Fullstack & Backend
+> Building AI-native tools to modernise enterprise SaaS (ERP / SCM / HCM)
+> Exploring: LLM agents for legacy workflow automation
 
 ---
 
