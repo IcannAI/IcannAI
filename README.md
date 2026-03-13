@@ -1,7 +1,11 @@
 # Hi there 👋
 
+About
+
 Independent SWE — Fullstack & Backend
+
 Building AI-native tools to modernise enterprise SaaS (ERP / SCM / HCM)
+
 Exploring: LLM agents for legacy workflow automation
 
 ---
@@ -24,18 +28,14 @@ Exploring: LLM agents for legacy workflow automation
 ## 📌 Pinned Projects
 
 ### [erpnext-ai-research](https://github.com/IcannAI/erpnext-ai-research)
-> LLM agent layer for SAP/Oracle workflows — natural language → ERP actions
+> Where do LLM agents plug into open-source ERP?
+> Research notes on ERPNext architecture — procurement & inventory for hardware companies.
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![CI](https://img.shields.io/badge/CI-passing-brightgreen?style=flat-square)
-![Stars](https://img.shields.io/github/stars/IcannAI/erpnext-ai-research?style=flat-square)
+![Status](https://img.shields.io/badge/status-active_research-blue?style=flat-square)
 
-**Benchmark**
-
-| Task | Manual / Baseline | This Agent |
-|------|-------------------|------------|
-| PO creation | 4.2 s (GPT-4 raw) | 1.8 s |
-| GL reconciliation | 20 min manual | 43 s automated |
+- ERPNext vs SAP MM architecture comparison (business logic layer, API surface, LLM accessibility)
+- Hardware procurement flow: multi-level BOM, dynamic lead times, GL code selection
+- Mapping the forecasting gap: where ERPNext ends and an AI layer begins
 
 ---
 
